@@ -1,0 +1,818 @@
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background-color:red;
+}
+
+
+.char1-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#8ae2e4; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char2-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#1470a3; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+
+.char3-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#ffcd5a; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char4-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#065359; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+
+.char5-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#ff998a; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char6-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#0c6722; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char7-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#9fa7e5; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char8-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#fa682c; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char9-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#ffcc59; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char10-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#0a3a78; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char11-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#9fa8e3; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char12-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#85dee2; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char13-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#ffcf59; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char14-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#2579a7; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+
+.char15-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#cec544; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+
+.char16-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#0a631f; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char17-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#ffeadc; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char18-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#fc6828; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+
+.char19-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#043c8f; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char20-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#77dae0; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+
+.char21-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#9fa7e5; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char22-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#82cbb0; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char23-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#cec343; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+.char24-color{
+    transition-duration: 1s;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+   color:#0c6722; 
+   transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+span {
+  color:black;
+
+  -o-transition:color 5s ease-out, background 5s ease-in ;
+  -ms-transition:color 5s ease-out, background 5s ease-in;
+  -moz-transition:color 5s ease-out, background 5s ease-in;
+  transition-duration: 5s; /* Safari */
+ /* Safari 3.1 to 6.0 */
+	 
+  -webkit-transition-delay: 1s;
+  padding-left:30px;
+  font-size:58px;
+  
+}
+#subs{
+	
+	font-size:20px;
+	
+}
+
+@media (min-width: 1200px)
+{
+.container {
+	margin-top:10px !important;
+	overflow-x:hidden;
+}
+
+.popup{
+	margin-left:400px;
+	
+}
+span{
+	font-size:57px !important;
+	
+}
+h4{
+	
+	font-size:16px !important;
+	letter-spacing:2px !important;
+	
+}
+
+
+
+}
+@media(max-width:500px)
+{
+	
+#first{
+    font-size: 12px ;
+}
+
+strong{
+	font-size:9px;
+	
+}
+.popup{
+	margin-left:400px;
+	
+}
+
+
+#letters{
+	padding-left:0px;
+	margin-top:10px;
+	
+	
+}
+span{
+	font-size:15px;
+	
+	
+}
+
+
+}
+@media (max-width: 1348px){
+	
+	#letters{
+	margin-top:10px;
+	overflow-x:hidden;
+	
+	
+}
+h4{
+	font-size:32px;
+	
+}
+	
+	
+
+}
+@media (min-width: 768px){
+	
+	#letters{
+	margin-top:10px;
+	
+	
+}
+span{
+	font-size:40px;
+	
+}
+h4{
+	font-size:12px;
+	
+}
+	.popup{
+	margin-left:400px;
+	
+}
+
+}
+@media only screen and (max-width: 325px){
+	
+	#letters{
+	margin-top:10px;
+	
+	
+}
+.popup{
+	margin-left:400px;
+	
+}
+h4{
+	font-size:12px;
+	
+}
+span{
+	font-size:12px;
+	padding-left:27px;
+	
+}
+	
+
+}
+
+
+body{
+	overflow-y:scroll;
+	
+}
+h4{
+letter-spacing:1px;	
+padding-left:20px;
+line-height:26px;
+}
+hr{
+
+color:black !important;
+border:2px solid black;
+width:89%;
+margin-left:25px;
+}
+.char1:hover { 
+color:#8ae2e4; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+
+ }
+
+.char2:hover { 
+color:#1470a3; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+.char3:hover { 
+color:#ffcd5a; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char4:hover { 
+color:#065359; 
+
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char5:hover { 
+color:#ff998a; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char6:hover { 
+color:#0c6620; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char7:hover { 
+color:#9fa8e3; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char8:hover { 
+color:#fa682c; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char9:hover { 
+color:#ffcc59; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char10:hover { 
+color:#0a3a78; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char11:hover { 
+color:#9fa8e3; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char12:hover { 
+color:#81dfe1; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char13:hover { 
+color:#ffcd5a; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ } .char14:hover { 
+color:#2579a7; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char15:hover { 
+color:#cec441; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char16:hover { 
+color:#0a6321; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char17:hover { 
+color:#fdd0a6; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char18:hover { 
+color:#fc682a; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char19:hover { 
+color:#013e8e; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ .char20:hover { 
+color:#77d9e2; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+  .char21:hover { 
+color:#9fa8e3; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+  .char22:hover { 
+color:#82cbb0; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+   .char23:hover { 
+color:#dad27d; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+    .char24:hover { 
+color:#2a733e; 
+transition: color 0s;
+    transition-property: color;
+    transition-duration: 0s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+ }
+ 
+ strong>a{
+	 
+	text-decoration:none;
+color:#e1d102;	 
+	 
+ }
+
+ 
+ #newsletter{
+	 color:#337ab7;
+	 	text-decoration:none;
+
+ }
+#mc_embed_signup{
+position: absolute;
+  top: 762px;
+  left:1164px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;	
+	
+}
+#mc_embed_signup #mc_embed_signup_scroll{
+	
+	 position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+  
+	
+}
+
+
+box {
+  width: 40%;
+  margin: 0 auto;
+  background: rgba(255,255,255,0.2);
+  padding: 35px;
+  border: 2px solid #fff;
+  border-radius: 20px/50px;
+  background-clip: padding-box;
+  text-align: center;
+}
+
+.button {
+font-size: 2em;
+    padding: 9px;
+    margin-top: 10px;
+    color: ##080808;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+
+
+.overlay {
+ position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup .close:hover {
+  color:red;
+}
+#email_t{
+	font-size:20px;
+	
+}
+.popup {
+
+margin-top:300px;
+
+  padding: 20px;
+  background-color:white;
+ 
+  border-radius: 5px;
+  border:2px solid black;
+  width: 77%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.close {
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 43px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color:red;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
+
+#mc_embed_signup_scroll{
+	height:282px;
+	width:900px;
+	margin-left:300px;
+	
+	
+	
+}
+
+#mc-embedded-subscribe{
+margin-left:824px;	
+width:108px;
+position:absolute;
+border:2px solid black;
+	
+}
+#mc-embedded-subscribe:hover{
+	color:#14709f;
+	
+}
+
+	
+ 
+
